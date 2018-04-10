@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Maven: org.hsqldb:hsqldb:2.4.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hsqldb/hsqldb/2.4.0/hsqldb-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hsqldb/hsqldb/2.4.0/hsqldb-2.4.0-javadoc.jar!/" />
+      <root url="file://C:/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/doc/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hsqldb/hsqldb/2.4.0/hsqldb-2.4.0-sources.jar!/" />
+      <root url="file://C:/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/doc/verbatim/src" />
+      <root url="file://C:/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/integration/extAuthWithSpring/src" />
+      <root url="file://C:/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/integration/hibernate/src" />
+      <root url="file://C:/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/integration/hibernate_3_3_1/src" />
+      <root url="file://C:/hsqldb-2.4.0/hsqldb-2.4.0/hsqldb/src" />
+    </SOURCES>
+  </library>
+</component>
